@@ -27,7 +27,7 @@ showcase the things I'm learning and the projects I work on.
 
 ## Live Website
 
-[Visit my portfolio](https://lupanesanskar.github.io/portfolio-website/)
+[Visit my portfolio](https://lupanesanskar.github.io/portfolio-website/project.html)
 
 ## Credits
 
